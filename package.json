@@ -1,0 +1,11 @@
+{
+  "name": "my-react",
+  "version": "1.0.0",
+  "description": "My react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
